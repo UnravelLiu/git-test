@@ -18,5 +18,7 @@ public class GItTest {
         System.out.println("gitee test!");
         System.out.println("gitee test2!");
         System.out.println("nnnnnnnnnnnnnnnn");
+        System.out.println("我不怕千万人阻挡只怕自己投降");
+        System.out.println("安静等待轨迹的放逐");
     }
 }
