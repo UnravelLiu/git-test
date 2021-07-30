@@ -20,5 +20,7 @@ public class GItTest {
         System.out.println("nnnnnnnnnnnnnnnn");
         System.out.println("我不怕千万人阻挡只怕自己投降");
         System.out.println("安静等待轨迹的放逐");
+        System.out.println("安静等待轨迹的放逐");
+        System.out.println("安静等待轨迹的放逐");
     }
 }
